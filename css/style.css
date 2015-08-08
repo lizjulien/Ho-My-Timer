@@ -1,0 +1,41 @@
+html{
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+}
+
+.filter {
+    z-index: 99;
+    height: 100vh;
+    width: 100%;
+    opacity: 0.6;
+}
+
+.container {
+    position: absolute;
+    width: 100%;
+    padding: 30px;
+    color: white;
+    z-index: 100;
+}
+
+.title {
+    font-size: 2em;
+}
+
+.more-informations {
+    display: inline-block;
+}
+
+.website {
+    display: block;
+    margin: 40px
+}
+
+.timer {
+    margin: 40px 0;
+    font-size: 2.5em;
+    font-weight: bold;
+}

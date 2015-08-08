@@ -1,0 +1,23 @@
+{
+  "name": "ho-my-waiting",
+  "version": "1.0",
+  "authors": [
+    "Julien MOULIN <julien@baliz.org>"
+  ],
+  "license": "GNU AGPLv3+",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "~0.97.0",
+    "moment": "~2.10.6",
+    "moment-duration-format": "~1.3.0",
+    "vide": "~0.3.6",
+    "jquery": "~2.1.4",
+    "jQuery-Flex-Vertical-Center": "~1.0.0"
+  }
+}
