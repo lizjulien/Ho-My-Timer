@@ -18,4 +18,4 @@ For built this interface, we used :
 You can reuse, inspirate or rebuild all this project. To be more fun, all is configurable on the `js/ho-my-timer.js` file.
 You will find a config block under L7 and L16, with all site configuration.
 
-![Looks and feel](./screenshot.png =500x)
+![Looks and feel](./screenshot.png){:width="450px"}
